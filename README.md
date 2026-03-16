@@ -27,8 +27,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/khushal-midha-260bb3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal-midha-260bb3288" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codebeast24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codebeast24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khushal_midha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khushal_midha,virat__kohli" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khushal_midha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="virat__kohli" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/khushal_midha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khushal_midha" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/virat__kohli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="virat__kohli" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khushalmidha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushalmidha24" height="30" width="40" /></a>
 </p>
 
