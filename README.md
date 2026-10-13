@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushal Midha</h1>
 
 <h3 align="center">
-Computer Science & AI @ IIIT Lucknow | Machine Learning & Applied AI | Competitive Programmer
+Software Engineering & Machine Learning | CS & AI @ IIIT Lucknow | Competitive Programmer
 </h3>
 
 <p align="center">
@@ -26,19 +26,20 @@ Computer Science & AI @ IIIT Lucknow | Machine Learning & Applied AI | Competiti
 
 ## About Me
 
-I am an undergraduate in **Computer Science and Artificial Intelligence at IIIT Lucknow**, interested in building and evaluating machine learning systems that combine strong modeling with efficient real-world infrastructure.
+I am a **Computer Science and Artificial Intelligence undergraduate at IIIT Lucknow** interested in building scalable software systems and applied machine learning products.
 
-My current work focuses on:
+My work spans both **software engineering and machine learning**, including:
 
-- Recommender Systems and Learning-to-Rank
+- Backend systems and REST APIs
+- Distributed and event-driven systems
+- Recommender systems and Learning-to-Rank
 - Deep Learning with PyTorch
 - Graph Neural Networks and Transformers
-- Information Retrieval and FAISS
-- RAG and LLM evaluation
-- ML systems, ranking pipelines and low-latency inference
+- Information Retrieval, FAISS and RAG
+- Databases, caching and low-latency systems
 - Data Structures, Algorithms and Competitive Programming
 
-I enjoy working on problems where **ML quality, system design, evaluation methodology and performance** all matter together.
+I enjoy working on problems where **algorithmic thinking, software architecture, ML quality and system performance** come together.
 
 ---
 
@@ -51,91 +52,129 @@ I enjoy working on problems where **ML quality, system design, evaluation method
 - 🛡️ **LeetCode Guardian**
 - 🌎 **ICPC Amritapuri Regionalist**
 - 🥇 Rank **186** in Meta Hacker Cup Round 3
-- 🧩 Solved **3000+ algorithmic problems** across competitive programming platforms
+- 🧩 Solved **3000+ algorithmic problems**
 
 ---
 
-## Featured ML Projects
+## Featured Projects
 
 ### 📰 Jagrit
-**Multimodal News Recommendation System**
+**Multimodal Recommendation & Ranking System**
 
-Built a research-oriented recommendation pipeline using:
+`PyTorch` `FAISS` `Two-Tower` `LambdaMART` `FastAPI` `Redis`
 
-`PyTorch` `FAISS` `Two-Tower Networks` `Attention` `LambdaMART` `MMR` `FastAPI`
-
-Key areas:
-
-- multimodal recommendation
-- chronological train/validation/test evaluation
-- leakage-safe ranking features
-- validation-only hyperparameter selection
-- FAISS candidate retrieval
-- LambdaMART learning-to-rank
-- diversity-aware reranking
+Built an end-to-end recommendation system spanning multimodal representation learning, candidate retrieval, learning-to-rank, diversity-aware reranking and low-latency serving.
 
 🔗 [Repository](https://github.com/khushalmidha/jagrit)
 
 ---
 
 ### 🛡️ ThreatGraph
-**Spatiotemporal Threat Detection & Graph-Aware RAG**
+**GNN-Based Threat Detection & Graph-Aware RAG**
 
-Built a spatiotemporal **GNN + Transformer** threat detection system evaluated on synthetic network telemetry.
+`PyTorch Geometric` `Transformers` `FAISS` `FastAPI`
 
-Technologies:
+Built a spatiotemporal GNN + Transformer detection system with attack-path reconstruction, graph-aware retrieval and simulated containment.
 
-`PyTorch Geometric` `GNNs` `Transformers` `FAISS` `FastAPI`
-
-Verified benchmark highlights:
+Verified results include:
 
 - **0.943 PR-AUC**
 - **0.899 F1-score**
 - **3.1K+ events/sec batched CPU inference**
-
-Also includes:
-
-- attack-path reconstruction
-- temporal causal constraints
-- graph-aware retrieval over MITRE ATT&CK knowledge
-- simulated zero-trust containment
 
 🔗 [Repository](https://github.com/khushalmidha/ThreatGraph)
 
 ---
 
 ### 🤖 TriageAgent
-**Two-Stage Semantic Retrieval & Risk Escalation System**
+**Semantic Retrieval & Risk Escalation Platform**
 
-Built a semantic retrieval and triage pipeline using:
+`Python` `FAISS` `Cross-Encoder` `Redis` `FastAPI`
 
-`Python` `FAISS` `Cross-Encoder` `Redis` `FastAPI` `Scikit-learn`
-
-Focus areas:
-
-- dense semantic retrieval
-- Cross-Encoder reranking
-- semantic caching
-- deterministic risk escalation
-- RAG evaluation
-- retrieval and ranking metrics
-- LLM-as-a-Judge evaluation
+Built a two-stage retrieval and triage system combining semantic search, reranking, caching, deterministic risk escalation and LLM evaluation.
 
 🔗 [Repository](https://github.com/khushalmidha/TriageAgent)
 
 ---
 
+## Software Engineering
+
+### Backend & Systems
+
+- FastAPI
+- Spring Boot
+- Node.js
+- Express.js
+- Redis
+- Kafka
+- Docker
+- REST APIs
+- Event-driven architectures
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Frontend
+
+- React.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+---
+
+## Machine Learning & AI
+
+- PyTorch
+- Scikit-learn
+- XGBoost
+- FAISS
+- Recommender Systems
+- Learning-to-Rank
+- Transformers
+- Graph Neural Networks
+- Computer Vision
+- RAG
+- LLM evaluation
+
+---
+
+## Programming Languages
+
+`C++` • `Python` • `Java` • `JavaScript` • `TypeScript` • `SQL` • `C`
+
+---
+
+## Experience
+
+### SDE Intern @ Coffeee.io
+
+Worked on software infrastructure and AI-assisted developer evaluation systems using:
+
+`Java` `Spring Boot` `React` `PostgreSQL` `Redis` `Docker` `LLMs`
+
+Highlights:
+
+- Built project-based coding assessment infrastructure with automated hidden-test evaluation
+- Developed contextual AI assistance while preserving assessment integrity
+- Worked across backend APIs, databases, caching and frontend integration
+
+---
+
 ## Competitive Programming
 
-I actively participate in algorithmic programming contests and enjoy solving problems involving:
+I regularly participate in algorithmic programming contests, with experience across:
 
 - Graphs
 - Dynamic Programming
+- Trees
 - Greedy Algorithms
 - Number Theory
-- Data Structures
-- Trees
 - String Algorithms
+- Data Structures
 - Combinatorics
 
 <p align="left">
@@ -152,67 +191,16 @@ I actively participate in algorithmic programming contests and enjoy solving pro
 
 ---
 
-## Tech Stack
-
-### Machine Learning & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-`PyTorch` • `Scikit-learn` • `XGBoost` • `FAISS` • `Transformers` • `GNNs` • `Recommender Systems` • `Learning-to-Rank` • `RAG` • `LLMs`
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
-</p>
-
-### ML Systems & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,redis,kafka,docker" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
-</p>
-
----
-
-## Experience
-
-### SDE Intern @ Coffeee.io
-
-Worked on developer assessment infrastructure and AI-assisted evaluation systems using:
-
-`Java` `Spring Boot` `React` `PostgreSQL` `LLMs` `Redis` `Docker`
-
-Built systems around:
-
-- project-based coding assessments
-- automated hidden-test evaluation
-- contextual AI assistance
-- controlled read-only LLM interactions
-
----
-
 ## Currently Exploring
 
-- Large-scale recommendation systems
-- Retrieval and ranking architectures
-- Multimodal learning
-- ML evaluation and experimentation
-- Efficient inference and ML systems
-- Applied research in ranking and personalization
+- Scalable backend systems
+- Distributed systems
+- Recommendation and ranking systems
+- Applied machine learning
+- Efficient inference
+- Retrieval systems
+- System design
+- ML infrastructure
 
 ---
 
