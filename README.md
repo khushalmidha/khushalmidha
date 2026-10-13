@@ -1,42 +1,236 @@
 <h1 align="center">Hi 👋, I'm Khushal Midha</h1>
-<h3 align="center">A passionate Full-Stack Developer and Competitive Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushalmidha&label=Profile%20views&color=0e75b6&style=flat" alt="khushalmidha" /> </p>
+<h3 align="center">
+Computer Science & AI @ IIIT Lucknow | Machine Learning & Applied AI | Competitive Programmer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushalmidha" alt="khushalmidha" /></a> </p>
-
-- 🔭 I’m currently working on [MediPulse](https://medi-pulse-gamma.vercel.app/)
-
-- 🌱 I’m currently learning **MERN Stack,ML,GenAI,DSA,CP**
-
-- 👯 I’m looking to collaborate on [Local Link](https://local-link-rho.vercel.app/)
-
-- 🤝 I’m looking for help with [IIITL Bachat](https://iiitl-bachat.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/khushalmidha](https://github.com/khushalmidha)
-
-- 📝 I regularly write articles on [https://codeforces.com/blog/Khushal_Midha](https://codeforces.com/blog/Khushal_Midha)
-
-- 💬 Ask me about **MERN,CP,DSA,AI**
-
-- 📫 How to reach me **khushalmidha24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wSLCNjAgsUsWQHsoPlywft1wKmQrENwh/view?usp=sharing](https://drive.google.com/file/d/1wSLCNjAgsUsWQHsoPlywft1wKmQrENwh/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushal-midha-260bb3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal-midha-260bb3288" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codebeast24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codebeast24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khushal_midha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khushal_midha" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/virat__kohli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="virat__kohli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khushalmidha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushalmidha24" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/khushal-midha-260bb3288">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushal%20Midha-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:khushalmidha24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khushalmidha24%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://codeforces.com/profile/Khushal_Midha">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-orange?style=flat-square&logo=codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/codebeast24">
+    <img src="https://img.shields.io/badge/CodeChef-5★-brown?style=flat-square&logo=codechef" />
+  </a>
+  <a href="https://www.leetcode.com/khushalmidha24">
+    <img src="https://img.shields.io/badge/LeetCode-Guardian-yellow?style=flat-square&logo=leetcode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalmidha&show_icons=true&locale=en&layout=compact" alt="khushalmidha" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalmidha&show_icons=true&locale=en" alt="khushalmidha" /></p>
+I am an undergraduate in **Computer Science and Artificial Intelligence at IIIT Lucknow**, interested in building and evaluating machine learning systems that combine strong modeling with efficient real-world infrastructure.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmidha&" alt="khushalmidha" /></p>
+My current work focuses on:
+
+- Recommender Systems and Learning-to-Rank
+- Deep Learning with PyTorch
+- Graph Neural Networks and Transformers
+- Information Retrieval and FAISS
+- RAG and LLM evaluation
+- ML systems, ranking pipelines and low-latency inference
+- Data Structures, Algorithms and Competitive Programming
+
+I enjoy working on problems where **ML quality, system design, evaluation methodology and performance** all matter together.
+
+---
+
+## Highlights
+
+- 🏆 **Top 50** in Amazon ML Challenge 2026 among 11,000+ teams
+- 🧠 Selected for **Amazon ML School 2025**
+- 💻 **Codeforces Expert**, max rating 1809
+- ⭐ **5★ CodeChef**
+- 🛡️ **LeetCode Guardian**
+- 🌎 **ICPC Amritapuri Regionalist**
+- 🥇 Rank **186** in Meta Hacker Cup Round 3
+- 🧩 Solved **3000+ algorithmic problems** across competitive programming platforms
+
+---
+
+## Featured ML Projects
+
+### 📰 Jagrit
+**Multimodal News Recommendation System**
+
+Built a research-oriented recommendation pipeline using:
+
+`PyTorch` `FAISS` `Two-Tower Networks` `Attention` `LambdaMART` `MMR` `FastAPI`
+
+Key areas:
+
+- multimodal recommendation
+- chronological train/validation/test evaluation
+- leakage-safe ranking features
+- validation-only hyperparameter selection
+- FAISS candidate retrieval
+- LambdaMART learning-to-rank
+- diversity-aware reranking
+
+🔗 [Repository](https://github.com/khushalmidha/jagrit)
+
+---
+
+### 🛡️ ThreatGraph
+**Spatiotemporal Threat Detection & Graph-Aware RAG**
+
+Built a spatiotemporal **GNN + Transformer** threat detection system evaluated on synthetic network telemetry.
+
+Technologies:
+
+`PyTorch Geometric` `GNNs` `Transformers` `FAISS` `FastAPI`
+
+Verified benchmark highlights:
+
+- **0.943 PR-AUC**
+- **0.899 F1-score**
+- **3.1K+ events/sec batched CPU inference**
+
+Also includes:
+
+- attack-path reconstruction
+- temporal causal constraints
+- graph-aware retrieval over MITRE ATT&CK knowledge
+- simulated zero-trust containment
+
+🔗 [Repository](https://github.com/khushalmidha/ThreatGraph)
+
+---
+
+### 🤖 TriageAgent
+**Two-Stage Semantic Retrieval & Risk Escalation System**
+
+Built a semantic retrieval and triage pipeline using:
+
+`Python` `FAISS` `Cross-Encoder` `Redis` `FastAPI` `Scikit-learn`
+
+Focus areas:
+
+- dense semantic retrieval
+- Cross-Encoder reranking
+- semantic caching
+- deterministic risk escalation
+- RAG evaluation
+- retrieval and ranking metrics
+- LLM-as-a-Judge evaluation
+
+🔗 [Repository](https://github.com/khushalmidha/TriageAgent)
+
+---
+
+## Competitive Programming
+
+I actively participate in algorithmic programming contests and enjoy solving problems involving:
+
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Number Theory
+- Data Structures
+- Trees
+- String Algorithms
+- Combinatorics
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Khushal_Midha">
+    <img src="https://img.shields.io/badge/Codeforces-Expert%20%7C%201809-orange?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/codebeast24">
+    <img src="https://img.shields.io/badge/CodeChef-5★-brown?style=for-the-badge&logo=codechef" />
+  </a>
+  <a href="https://www.leetcode.com/khushalmidha24">
+    <img src="https://img.shields.io/badge/LeetCode-Guardian-yellow?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Machine Learning & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+`PyTorch` • `Scikit-learn` • `XGBoost` • `FAISS` • `Transformers` • `GNNs` • `Recommender Systems` • `Learning-to-Rank` • `RAG` • `LLMs`
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
+</p>
+
+### ML Systems & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,redis,kafka,docker" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
+</p>
+
+---
+
+## Experience
+
+### SDE Intern @ Coffeee.io
+
+Worked on developer assessment infrastructure and AI-assisted evaluation systems using:
+
+`Java` `Spring Boot` `React` `PostgreSQL` `LLMs` `Redis` `Docker`
+
+Built systems around:
+
+- project-based coding assessments
+- automated hidden-test evaluation
+- contextual AI assistance
+- controlled read-only LLM interactions
+
+---
+
+## Currently Exploring
+
+- Large-scale recommendation systems
+- Retrieval and ranking architectures
+- Multimodal learning
+- ML evaluation and experimentation
+- Efficient inference and ML systems
+- Applied research in ranking and personalization
+
+---
+
+## Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/khushal-midha-260bb3288)
+- 💻 [GitHub](https://github.com/khushalmidha)
+- 🧠 [Codeforces](https://codeforces.com/profile/Khushal_Midha)
+- ⭐ [CodeChef](https://www.codechef.com/users/codebeast24)
+- 🧩 [LeetCode](https://www.leetcode.com/khushalmidha24)
+- ✉️ **khushalmidha24@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushalmidha&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmidha&hide_border=true" />
+</p>
